@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "608f5ec608b36ebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b85474d29adb0d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f0b2a86d8cf8f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9258f251ee4cf797",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bd763c8faef99ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de1983d83a8833f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e87ebd50dbf43cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ontology/term",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb8f96a462e843db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5
+  },
+  "right": {
+    "id": "9b4b0513dfcd445d",
+    "type": "split",
+    "children": [
+      {
+        "id": "849b15bf4182fa86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f832825176527cb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a6d32a5dfe43a70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7970f38c7e4ba2f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "9332a9737e43f46f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "82a2b995a8385b0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "d00a18f3dd656c11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ccd9860f31cada2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3f0b2a86d8cf8f5c",
+  "lastOpenFiles": [
+    "tags/todo.md",
+    "index.md",
+    "tags/ontology/class.md",
+    "Foo Bar.md",
+    "The quick brown fox.md",
+    "CLIPS Rule Engine.md",
+    "attachments/CLIPS.png",
+    "attachments",
+    "untitled folder",
+    "CLIPS.png",
+    "Page with tags.md",
+    "tags/ontology",
+    "tags"
+  ]
+}

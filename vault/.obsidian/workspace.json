@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spec/procedures/io/input/Read.md",
+                "file": "spec/formal/Formal Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ontology/term",
+                "query": "tag:#procedure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spec/procedures/io/input/Read.md",
+                "file": "spec/formal/Formal Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spec/procedures/io/input/Read.md"
+                "file": "spec/formal/Formal Syntax.md"
               }
             }
           },
@@ -162,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "spec/procedures/io/input/Read.md"
+                "file": "spec/formal/Formal Syntax.md"
               }
             }
           }
@@ -190,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spec/procedures/io/input/Read.md",
+                "file": "spec/formal/Formal Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,10 +222,11 @@
   "active": "4f8cecf696167731",
   "lastOpenFiles": [
     "spec/overview/Syntax.md",
+    "spec/formal/Formal Syntax.md",
+    "attachments/r7rs.pdf",
     "spec/procedures/io/input/Read.md",
     "spec/procedures/io/output",
     "spec/procedures/io/input",
-    "attachments/r7rs.pdf",
     "spec/procedures/io/ports",
     "spec/procedures/io",
     "spec/formal/syntax/Libraries.md",
@@ -245,7 +247,6 @@
     "spec/Formal Syntax and Semantics.md",
     "spec/formal/Derived Expression Types.md",
     "spec/formal/Formal Semantics.md",
-    "spec/formal/Formal Syntax.md",
     "spec/formal",
     "spec/overview/Notation and Terminology.md",
     "spec/overview",

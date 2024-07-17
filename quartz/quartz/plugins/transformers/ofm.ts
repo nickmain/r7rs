@@ -345,7 +345,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
 
                 return {
                   type: "link",
-                  url: base + `/tags/${tag}`,
+                  url: base + `/xtags/${tag}`,
                   data: {
                     hProperties: {
                       className: ["tag-link"],

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spec/formal/Formal Syntax.md",
+                "file": "tags/procedure.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spec/formal/Formal Syntax.md",
+                "file": "tags/procedure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spec/formal/Formal Syntax.md"
+                "file": "tags/procedure.md"
               }
             }
           },
@@ -163,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "spec/formal/Formal Syntax.md"
+                "file": "tags/procedure.md"
               }
             }
           }
@@ -191,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spec/formal/Formal Syntax.md",
+                "file": "tags/procedure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,8 +220,9 @@
   },
   "active": "4f8cecf696167731",
   "lastOpenFiles": [
-    "spec/overview/Syntax.md",
     "spec/formal/Formal Syntax.md",
+    "tags/procedure.md",
+    "spec/overview/Syntax.md",
     "attachments/r7rs.pdf",
     "spec/procedures/io/input/Read.md",
     "spec/procedures/io/output",

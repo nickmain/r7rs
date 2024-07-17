@@ -1,5 +1,7 @@
 {
   "attachmentFolderPath": "attachments",
   "propertiesInDocument": "hidden",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
 }

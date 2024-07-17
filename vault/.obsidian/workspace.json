@@ -13,10 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "spec/Overview of Scheme.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cbe79e4dd248de0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdac559e42c0145a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/r7rs.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "spec/Overview of Scheme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "spec/Overview of Scheme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "spec/Overview of Scheme.md"
               }
             }
           },
@@ -136,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "spec/Overview of Scheme.md"
               }
             }
           }
@@ -176,8 +194,18 @@
   },
   "active": "3f0b2a86d8cf8f5c",
   "lastOpenFiles": [
-    "tags/todo.md",
+    "spec/overview/Notation and Terminology.md",
+    "spec/Overview of Scheme.md",
+    "spec/overview/Syntax.md",
+    "spec/overview/Semantics.md",
+    "spec/overview",
+    "spec/R7RS-Small Specification.md",
+    "attachments/r7rs.pdf",
     "index.md",
+    "spec/R7RS-Small Errata.md",
+    "attachments/Pre-Scheme.pdf",
+    "spec",
+    "tags/todo.md",
     "tags/ontology/class.md",
     "Foo Bar.md",
     "The quick brown fox.md",

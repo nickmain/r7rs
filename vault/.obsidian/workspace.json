@@ -6,6 +6,7 @@
       {
         "id": "9b85474d29adb0d3",
         "type": "tabs",
+        "dimension": 44.270122783083224,
         "children": [
           {
             "id": "3f0b2a86d8cf8f5c",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spec/R7RS-Small Specification.md",
+                "file": "spec/lexical/Other Notations.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,18 +33,6 @@
             }
           },
           {
-            "id": "774bfdbd13f0ebf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spec/overview/Notation and Terminology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ffac35860e2a30f5",
             "type": "leaf",
             "state": {
@@ -55,12 +44,12 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "cbe79e4dd248de0e",
         "type": "tabs",
+        "dimension": 55.729877216916776,
         "children": [
           {
             "id": "fdac559e42c0145a",
@@ -124,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 200
   },
   "right": {
     "id": "9b4b0513dfcd445d",
@@ -140,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spec/overview/notation/Entry Format.md",
+                "file": "spec/lexical/Other Notations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spec/overview/notation/Entry Format.md"
+                "file": "spec/lexical/Other Notations.md"
               }
             }
           },
@@ -174,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "spec/overview/notation/Entry Format.md"
+                "file": "spec/lexical/Other Notations.md"
               }
             }
           }
@@ -202,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spec/overview/notation/Entry Format.md",
+                "file": "spec/lexical/Other Notations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,43 +219,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffac35860e2a30f5",
+  "active": "3f0b2a86d8cf8f5c",
   "lastOpenFiles": [
-    "spec/overview/Notation and Terminology.md",
-    "spec/overview/notation/Error Situations and Unspecified Behavior.md",
+    "spec/Lexical Conventions.md",
+    "spec/lexical/Whitespace and Comments.md",
     "attachments/r7rs.pdf",
-    "references/RFC 2119.md",
-    "references",
-    "spec/procedures/exceptions/Raise.md",
-    "spec/procedures/exceptions",
-    "spec/overview/notation/Base and Optional Features.md",
+    "spec/lexical/Identifiers.md",
+    "spec/procedures/String Procedures.md",
+    "spec/procedures/strings",
+    "spec/procedures/io/input/read.md",
+    "spec/procedures/Symbols.md",
+    "spec/expressions/primitive/Inclusion.md",
+    "spec/expressions/primitive/Assignments.md",
+    "spec/expressions/primitive/Procedure Expressions.md",
+    "spec/expressions/primitive/Conditionals.md",
+    "spec/expressions/primitive/Procedure Calls.md",
+    "spec/expressions/primitive/Literal Expressions.md",
+    "spec/expressions/primitive/Variable References.md",
+    "spec/expressions/primitive",
+    "spec/expressions/Macros.md",
+    "spec/expressions/Derived Expression Types.md",
+    "spec/expressions/Primitive Expression Types.md",
+    "spec/expressions",
+    "spec/concepts/Variables, Syntactic Keywords, and Regions.md",
+    "spec/lexical/Datum Labels.md",
+    "spec/lexical/Other Notations.md",
+    "spec/lexical",
     "spec/R7RS-Small Specification.md",
-    "spec/Standard Libraries.md",
-    "spec/overview/notation/Evaluation Examples.md",
-    "spec/overview/notation/Entry Format.md",
-    "spec/overview/notation/Naming Conventions.md",
-    "spec/overview/notation",
     "spec/Overview of Scheme.md",
-    "spec/overview/Semantics.md",
     "spec/overview/Syntax.md",
-    "tags/todo.md",
-    "spec/procedures/io/input/Read.md",
-    "spec/formal/Formal Semantics.md",
-    "tags/procedure.md",
-    "spec/formal/Formal Syntax.md",
+    "spec/overview/Notation and Terminology.md",
+    "spec/overview/notation/Naming Conventions.md",
+    "spec/overview/notation/Evaluation Examples.md",
+    "references",
+    "spec/procedures/exceptions",
+    "spec/overview/notation",
     "spec/procedures/io/output",
     "spec/procedures/io/input",
-    "spec/procedures/io/ports",
-    "spec/procedures/io",
-    "spec/formal/syntax/Libraries.md",
-    "spec/formal/syntax/Programs and Definitions.md",
-    "spec/formal/syntax/Transformers.md",
-    "spec/formal/syntax/Quasiquotations.md",
-    "spec/formal/syntax/Expressions.md",
-    "spec/formal/syntax/External Representations.md",
-    "spec/formal/syntax/Lexical Structure.md",
-    "spec/formal/syntax",
-    "spec/procedures",
     "attachments/CLIPS.png",
     "CLIPS.png"
   ]

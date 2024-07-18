@@ -1,3 +1,3 @@
 * [[Formal Syntax]]
 * [[Formal Semantics]]
-* [[Derived Expression Types]]
+* [[spec/formal/Derived Expression Types]]

@@ -3,5 +3,3 @@ aliases:
   - read
 ---
 #todo 
-
-read

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spec/lexical/Other Notations.md",
+                "file": "spec/procedures/io/ports/call-with-port.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spec/lexical/Other Notations.md",
+                "file": "spec/procedures/io/ports/call-with-port.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spec/lexical/Other Notations.md"
+                "file": "spec/procedures/io/ports/call-with-port.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "spec/lexical/Other Notations.md"
+                "file": "spec/procedures/io/ports/call-with-port.md"
               }
             }
           }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spec/lexical/Other Notations.md",
+                "file": "spec/procedures/io/ports/call-with-port.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,6 +222,9 @@
   "active": "3f0b2a86d8cf8f5c",
   "lastOpenFiles": [
     "attachments/r7rs.pdf",
+    "spec/procedures/io/ports/call-with-port.md",
+    "spec/procedures/io/ports",
+    "spec/procedures/io/input/read.md",
     "spec/lexical/Other Notations.md",
     "spec/expressions/macro/Signaling Errors in Macro Transformers.md",
     "spec/expressions/macro/Pattern Language.md",
@@ -247,15 +250,12 @@
     "spec/procedures/Vector Procedures.md",
     "spec/procedures/Character Procedures.md",
     "spec/procedures/Pair and List Procedures.md",
-    "spec/procedures/Boolean Procedures.md",
-    "spec/procedures/Symbol Procedures.md",
     "spec/procedures/strings",
     "spec/expressions/primitive",
     "spec/expressions",
     "spec/lexical",
     "references",
     "spec/procedures/exceptions",
-    "spec/overview/notation",
     "attachments/CLIPS.png",
     "CLIPS.png"
   ]

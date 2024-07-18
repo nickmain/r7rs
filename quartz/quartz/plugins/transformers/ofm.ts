@@ -343,8 +343,6 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                   file.data.frontmatter.tags = [...new Set([...noteTags, tag])]
                 }
 
-                console.log("\n\n" + tag + "  ---->  " + base + `/tags/${tag}` + "\n\n" )
-
                 return {
                   type: "link",
                   url: base + `/tags/${tag}`,

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spec/procedures/io/input/read.md",
+                "file": "spec/procedures/io/input/lowercase read.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spec/procedures/io/input/read.md",
+                "file": "spec/procedures/io/input/lowercase read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spec/procedures/io/input/read.md"
+                "file": "spec/procedures/io/input/lowercase read.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "spec/procedures/io/input/read.md"
+                "file": "spec/procedures/io/input/lowercase read.md"
               }
             }
           }
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spec/procedures/io/input/read.md",
+                "file": "spec/procedures/io/input/lowercase read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
     "spec/procedures/io/ports/call-with-port.md",
     "attachments/r7rs.pdf",
     "spec/procedures/io/ports",
-    "spec/procedures/io/input/read.md",
+    "spec/procedures/io/input/lowercase read.md",
     "spec/lexical/Other Notations.md",
     "spec/expressions/macro/Signaling Errors in Macro Transformers.md",
     "spec/expressions/macro/Pattern Language.md",

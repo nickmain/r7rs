@@ -30,7 +30,7 @@ See section [[Lexical Structure]] for the formal syntax of identifiers.
 Identifiers have two uses within Scheme programs:
 
 * Any identifier can be used as a variable or as a syntactic keyword (see [[Variables, Syntactic Keywords, and Regions]] and [[Macros]]).
-* When an identifier appears as a literal or within a literal (see [[Literal Expressions]]), it is being used to denote a symbol (see [[Symbols]]).
+* When an identifier appears as a literal or within a literal (see [[Literal Expressions]]), it is being used to denote a symbol (see [[Symbol Procedures]]).
 
 ## Case Sensitivity
 

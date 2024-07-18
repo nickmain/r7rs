@@ -32,19 +32,31 @@
             }
           },
           {
-            "id": "4f8cecf696167731",
+            "id": "774bfdbd13f0ebf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spec/formal/Formal Semantics.md",
+                "file": "spec/overview/Notation and Terminology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffac35860e2a30f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spec/overview/notation/Entry Format.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "cbe79e4dd248de0e",
@@ -91,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#procedure",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spec/formal/Formal Semantics.md",
+                "file": "spec/overview/notation/Entry Format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spec/formal/Formal Semantics.md"
+                "file": "spec/overview/notation/Entry Format.md"
               }
             }
           },
@@ -162,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "spec/formal/Formal Semantics.md"
+                "file": "spec/overview/notation/Entry Format.md"
               }
             }
           }
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spec/formal/Formal Semantics.md",
+                "file": "spec/overview/notation/Entry Format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,8 +213,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,13 +229,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f8cecf696167731",
+  "active": "ffac35860e2a30f5",
   "lastOpenFiles": [
+    "spec/overview/Notation and Terminology.md",
+    "spec/overview/notation/Error Situations and Unspecified Behavior.md",
+    "attachments/r7rs.pdf",
+    "references/RFC 2119.md",
+    "references",
+    "spec/procedures/exceptions/Raise.md",
+    "spec/procedures/exceptions",
+    "spec/overview/notation/Base and Optional Features.md",
+    "spec/R7RS-Small Specification.md",
+    "spec/Standard Libraries.md",
+    "spec/overview/notation/Evaluation Examples.md",
+    "spec/overview/notation/Entry Format.md",
+    "spec/overview/notation/Naming Conventions.md",
+    "spec/overview/notation",
+    "spec/Overview of Scheme.md",
+    "spec/overview/Semantics.md",
+    "spec/overview/Syntax.md",
+    "tags/todo.md",
+    "spec/procedures/io/input/Read.md",
+    "spec/formal/Formal Semantics.md",
     "tags/procedure.md",
     "spec/formal/Formal Syntax.md",
-    "spec/overview/Syntax.md",
-    "attachments/r7rs.pdf",
-    "spec/procedures/io/input/Read.md",
     "spec/procedures/io/output",
     "spec/procedures/io/input",
     "spec/procedures/io/ports",
@@ -237,25 +265,7 @@
     "spec/formal/syntax/External Representations.md",
     "spec/formal/syntax/Lexical Structure.md",
     "spec/formal/syntax",
-    "spec/Overview of Scheme.md",
-    "spec/overview/Semantics.md",
-    "spec/procedures/Control Features.md",
     "spec/procedures",
-    "spec/concepts/Proper Tail Recursion.md",
-    "spec/concepts",
-    "spec/R7RS-Small Specification.md",
-    "spec/Formal Syntax and Semantics.md",
-    "spec/formal/Derived Expression Types.md",
-    "spec/formal/Formal Semantics.md",
-    "spec/formal",
-    "spec/overview/Notation and Terminology.md",
-    "spec/overview",
-    "index.md",
-    "spec/R7RS-Small Errata.md",
-    "tags/todo.md",
-    "tags/ontology/class.md",
-    "Foo Bar.md",
-    "The quick brown fox.md",
     "attachments/CLIPS.png",
     "CLIPS.png"
   ]

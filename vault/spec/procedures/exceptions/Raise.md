@@ -1,5 +1,4 @@
 ---
 aliases:
-  - read
+  - raise
 ---
-

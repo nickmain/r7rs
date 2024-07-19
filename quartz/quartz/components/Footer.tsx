@@ -14,11 +14,11 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
-        <p>© {year} David N Main. This work is licensed under
-          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
-          &nbsp;CC BY-NC-SA 4.0
-          </a>
-        </p>
+         <p>© {year} David N Main. See the 
+           <a href="https://hello.nickmain.com/r7rs/License" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+           license page
+           </a>.
+         </p>
       </footer>
     )
   }

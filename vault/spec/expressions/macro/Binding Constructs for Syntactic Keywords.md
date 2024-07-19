@@ -2,7 +2,7 @@ The `let-syntax` and `letrec-syntax` binding constructs are analogous to `let` a
 
 Syntactic keywords can also be bound globally or locally with `define-syntax`; see [[Syntax Definitions]].
 
-#### let-syntax
+## let-syntax
 
 * `(let-syntax ⟨bindings⟩ ⟨body⟩)`
 	- ⟨bindings⟩ has the form
@@ -28,6 +28,6 @@ Each ⟨keyword⟩ is an identifier, each ⟨transformer spec⟩ is an instance 
 	   (m))))    ==> outer
 ```
 
-#### letrec-syntax
+## letrec-syntax
 
 #todo 

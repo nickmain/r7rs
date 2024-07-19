@@ -5,3 +5,4 @@ private/
 .replit
 replit.nix
 site
+workspace.json

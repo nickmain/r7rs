@@ -5,8 +5,7 @@ Syntactic keywords can also be bound globally or locally with `define-syntax`; s
 ## let-syntax
 
 * `(let-syntax ⟨bindings⟩ ⟨body⟩)`
-	- ⟨bindings⟩ has the form
-		`((⟨keyword⟩ ⟨transformer spec⟩) ...)`
+	- ⟨bindings⟩ has the form `((⟨keyword⟩ ⟨transformer spec⟩) ...)`
 
 Each ⟨keyword⟩ is an identifier, each ⟨transformer spec⟩ is an instance of `syntax-rules`, and ⟨body⟩ is a sequence of zero or more definitions followed by one or more expressions. It is an error for a ⟨keyword⟩ to appear more than once in the list of keywords being bound.
 
@@ -17,15 +16,15 @@ Each ⟨keyword⟩ is an identifier, each ⟨transformer spec⟩ is an instance 
 			   ((given-that test stmt1 stmt2 ...) 
 				(if test 
 				   (begin stmt1 
-						  stmt2 ...)))))) 
+						  stmt2 ...)))))) 						 
 	(let ((if #t)) 
 		(given-that if (set! if ’now))
 		 if))    ==> now 
 		 
 (let ((x ’outer)) 
 	(let-syntax ((m (syntax-rules () ((m) x)))) 
-	(let ((x ’inner)) 
-	   (m))))    ==> outer
+		(let ((x ’inner)) 
+		   (m))))    ==> outer
 ```
 
 ## letrec-syntax

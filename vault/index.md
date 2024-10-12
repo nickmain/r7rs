@@ -5,3 +5,5 @@ aliases:
 ---
 
 Scheme [[R7RS-Small Specification]]
+
+[[Pre-Scheme]] - Scheme subset that generates C.

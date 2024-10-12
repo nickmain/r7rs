@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d6c095e038bd3c39","x":-360,"y":-580,"width":500,"height":380,"type":"link","url":"https://www.unsyntax.org"},
+		{"id":"d6597ef1a48a1870","x":-310,"y":0,"width":400,"height":400,"type":"link","url":"https://prescheme.org/"}
+	],
+	"edges":[
+		{"id":"74dd2c6d8226bdd8","fromNode":"d6597ef1a48a1870","fromSide":"top","toNode":"d6c095e038bd3c39","toSide":"bottom","label":"will use"}
+	]
+}

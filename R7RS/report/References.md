@@ -1,0 +1,40 @@
+- (1) Harold Abelson and Gerald Jay Sussman with Julie Sussman. Structure and Interpretation of Computer Programs, second edition. MIT Press, Cambridge, 1996. ^c8251c
+- (2) Alan Bawden and Jonathan Rees. Syntactic closures. In Proceedings of the 1988 ACM Symposium on Lisp and Functional Programming, pages 86–95. 
+- (3) S. Bradner. Key words for use in RFCs to Indicate Requirement Levels. http://www.ietf.org/rfc/rfc2119.txt, 1997. See [[RFC 2119]].
+- (4) Robert G. Burger and R. Kent Dybvig. Printing floating-point numbers quickly and accurately. In Proceedings of the ACM SIGPLAN ’96 Conference on Programming Language Design and Implementation, pages 108–116. 
+- (5) William Clinger. How to read floating point numbers accurately. In Proceedings of the ACM SIGPLAN ’90 Conference on Programming Language Design and Implementation, pages 92–101. Proceedings published as SIGPLAN Notices 25(6), June 1990. 
+- (6) William Clinger. Proper Tail Recursion and Space Efficiency. In Proceedings of the 1998 ACM Conference on Programming Language Design and Implementation, June 1998. 
+- (7) William Clinger. SRFI 6: Basic String Ports. http://srfi.schemers.org/srfi-6/ , 1999. 
+- (8) William Clinger, editor. The revised revised report on Scheme, or an uncommon Lisp. MIT Artificial Intelligence Memo 848, August 1985. Also published as Computer Science Department Technical Report 174, Indiana University, June 1985.  ^a1ce5f
+- (9) William Clinger and Jonathan Rees. Macros that work. In Proceedings of the 1991 ACM Conference on Principles of Programming Languages, pages 155– 162.
+- (10) William Clinger and Jonathan Rees, editors. The revised4 report on the algorithmic language Scheme. In ACM Lisp Pointers 4(3), pages 1–55, 1991.  ^84dbd9
+- (11) Mark Davis. Unicode Standard Annex #44, Unicode Character Database. http://unicode.org/reports/tr44/ , 2010. 
+- (12) R. Kent Dybvig, Robert Hieb, and Carl Bruggeman. Syntactic abstraction in Scheme. Lisp and Symbolic Computation 5(4):295–326, 1993. 
+- (13) Marc Feeley. SRFI 4: Homogeneous Numeric Vector Datatypes. http://srfi.schemers.org/srfi-4/, 1999. 
+- (14) Carol Fessenden, William Clinger, Daniel P. Fried- man, and Christopher Haynes. Scheme 311 version 4 reference manual. Indiana University Computer Science Technical Report 137, February 1983. Superseded by [[References#^3d1a50|(15)]]. ^a0f4d0
+- (15) D. Friedman, C. Haynes, E. Kohlbecker, and M. Wand. Scheme 84 interim reference manual. Indi- ana University Computer Science Technical Report 153, January 1985.  ^3d1a50
+- (16) Martin Gardner. Mathematical Games: The fantastic combinations of John Conway’s new solitaire game “Life.” In Scientific American, 223:120–123, October 1970. 
+- (17) IEEE Standard 754-2008. IEEE Standard for Floating-Point Arithmetic. IEEE, New York, 2008. 
+- (18) IEEE Standard 1178-1990. IEEE Standard for the Scheme Programming Language. IEEE, New York, 1991.  ^13c6e2
+- (19) Richard Kelsey. SRFI 9: Defining Record Types. http://srfi.schemers.org/srfi-9/, 1999. 
+- (20) Richard Kelsey, William Clinger, and Jonathan Rees, editors. The revised5 report on the algorithmic language Scheme. Higher-Order and Symbolic Computation, 11(1):7-105, 1998.  ^9ddf92
+- (21) Eugene E. Kohlbecker Jr. Syntactic Extensions in the Programming Language Lisp. PhD thesis, Indiana University, August 1986. 
+- (22) Eugene E. Kohlbecker Jr., Daniel P. Friedman, Matthias Felleisen, and Bruce Duba. Hygienic macro expansion. In Proceedings of the 1986 ACM Conference on Lisp and Functional Programming, pages 151–161. 
+- (23) John McCarthy. Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I. Communications of the ACM 3(4):184–195, April 1960.  ^15edcb
+- (24) MIT Department of Electrical Engineering and Computer Science. Scheme manual, seventh edition. September 1984.  ^749890
+- (25) Peter Naur et al. Revised report on the algorithmic language Algol 60. Communications of the ACM 6(1):1–17, January 1963.  ^711349
+- (26) Paul Penfield, Jr. Principal values and branch cuts in complex APL. In APL ’81 Conference Proceedings, pages 248–256. ACM SIGAPL, San Francisco, September 1981. Proceedings published as APL Quote Quad 12(1), ACM, September 1981. 
+- (27) Jonathan A. Rees and Norman I. Adams IV. T: A dialect of Lisp or, lambda: The ultimate software tool. In Conference Record of the 1982 ACM Symposium on Lisp and Functional Programming, pages 114–122 ^04b765
+- (28) Jonathan A. Rees, Norman I. Adams IV, and James R. Meehan. The T manual, fourth edition. Yale University Computer Science Department, January 1984.  ^0f8577
+- (29) Jonathan Rees and William Clinger, editors. The revised3 report on the algorithmic language Scheme. In ACM SIGPLAN Notices 21(12), pages 37–79, December 1986.  ^edd792
+- (30) Olin Shivers. SRFI 1: List Library. http://srfi.schemers.org/srfi-1/, 1999. 
+- (31) Guy Lewis Steele Jr. and Gerald Jay Sussman. The revised report on Scheme, a dialect of Lisp. MIT Artificial Intelligence Memo 452, January 1978.  ^05f78f
+- (32) Guy Lewis Steele Jr. Rabbit: a compiler for Scheme. MIT Artificial Intelligence Laboratory Technical Report 474, May 1978.  ^aea223
+- (33) Michael Sperber, R. Kent Dybvig, Mathew Flatt, and Anton van Straaten, editors. The revised6 report on the algorithmic language Scheme. Cambridge University Press, 2010.  ^f7f2fb
+- (34) Guy Lewis Steele Jr. Common Lisp: The Language, second edition. Digital Press, Burlington MA, 1990.  ^2efbcb
+- (35) Gerald Jay Sussman and Guy Lewis Steele Jr. Scheme: an interpreter for extended lambda calculus. MIT Artificial Intelligence Memo 349, December 1975.  ^c45d2c
+- (36) Joseph E. Stoy. Denotational Semantics: The Scott-Strachey Approach to Programming Language Theory. MIT Press, Cambridge, 1977. 
+- (37) Texas Instruments, Inc. TI Scheme Language Reference Manual. Preliminary version 1.0, November 1985.  ^183c66
+- (38) Andre van Tonder. SRFI 45: Primitives for Expressing Iterative Lazy Algorithms. http://srfi.schemers.org/srfi-45/, 2002. 
+- (39) Martin Gasbichler, Eric Knauel, Michael Sperber and Richard Kelsey. How to Add Threads to a Sequential Language Without Getting Tangled Up. Proceedings of the Fourth Workshop on Scheme and Functional Programming, November 2003. 
+- (40) International Earth Rotation Service. Historical table of TAI-UTC offsets. http://maia.usno.navy.mil/ser7/tai-utc.dat 

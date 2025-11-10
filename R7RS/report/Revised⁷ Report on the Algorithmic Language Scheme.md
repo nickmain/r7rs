@@ -1,0 +1,36 @@
+Dedicated to the memory of John McCarthy and Daniel Weinreb
+
+September 6, 2022
+
+- [[Summary]]
+- [[Contents]]
+
+---
+#### Editors
+- ALEX SHINN
+- JOHN COWAN
+- ARTHUR A. GLECKLER
+
+#### Contributors
+- STEVEN GANZ
+- ALEXEY RADUL
+- OLIN SHIVERS
+- AARON W. HSU
+- JEFFREY T. READ
+- ALARIC SNELL-PYM
+- BRADLEY LUCIER
+- DAVID RUSH
+- GERALD J. SUSSMAN
+- EMMANUEL MEDERNACH
+- BENJAMIN L. RUSSEL
+
+#### R5RS Editors
+- RICHARD KELSEY
+- WILLIAM CLINGER
+- JONATHAN REES
+
+#### R6RS Editors
+- MICHAEL SPERBER
+- R. KENT DYBVIG
+- MATTHEW FLATT
+- ANTON VAN STRAATEN
